@@ -38,3 +38,30 @@ The rules:
 
 - Each stage is completed when you dig up all the underground waters.
   The underground waters are placed at deeper level as the stage advances.
+
+
+## ELEVATOR
+
+This game has been released in Micom BASIC Magazine in Feburary 1984.
+
+[ELEVATOR.cjf](../../raw/master/ELEVATOR.cjr)
+
+![ELEVATOR main](image/ELEVATOR.png)
+
+The rules:
+
+- You're a transporter to carry loads from left to right.
+
+- Push `[SPACE]` key to jump on elevators until you reach at the goal on the left side.
+
+- The stage is cleared when you get to the goal six times.
+
+- The speed of elevators gets slower as the stage advances.
+
+- Loads are stacked up as time passes.
+
+- The game is over when one of the following events happens:
+
+  - Fails to land on an elevator.
+  - Hits at the top of the screen.
+  - There are five loads stacked up.
