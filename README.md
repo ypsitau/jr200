@@ -12,7 +12,7 @@ The emulator requires ROM images of JR-200. Searching sites with terms "JR-200 R
 may give you information on how to retrieve these images.
 
 After launching VJR-200, push `[Ctrl]`+`[Alt]`+`[L]` or select menu `[ファイル(F)]`-`[CJR高速ロード(L)]` to
-open a CJR file and then type in `RUN` followed by `[Enter]` key in the JR BASIC prompt to execute it.
+load a CJR file and then type in `RUN` followed by `[Enter]` key in the JR BASIC prompt to execute it.
 
 Have fun!
 
@@ -50,9 +50,9 @@ This game has been released in Micom BASIC Magazine in Feburary 1984.
 
 The rules:
 
-- You're a transporter to carry loads from left to right.
+- You're a transporter who carries loads by moving from left to right.
 
-- Push `[SPACE]` key to jump on elevators until you reach at the goal on the left side.
+- Push `[SPACE]` key to jump onto the next elevator until you reach at the goal on the left side.
 
 - The stage is cleared when you get to the goal six times.
 
@@ -63,5 +63,5 @@ The rules:
 - The game is over when one of the following events happens:
 
   - Fails to land on an elevator.
-  - Hits at the top of the screen.
+  - Crashes onto the top of the screen.
   - There are five loads stacked up.
