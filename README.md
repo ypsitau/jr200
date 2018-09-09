@@ -3,7 +3,7 @@
 This repository stores programs for JR-200,
 an 8-bit personal computer that was provided by Panasonic back in 1982.
 
-## JR-200 Emulator
+## How to Play with JR-200 Emulator
 
 VJR-200, a JR-200 emulator that runs on Windows, is available
 [here](http://www.geocities.jp/find_jr200/index.html).
