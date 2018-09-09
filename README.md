@@ -12,7 +12,7 @@ The emulator requires ROM images of JR-200. Searching sites with terms "JR-200 R
 may give you information on how to retrieve these images.
 
 After launching VJR-200, push `[Ctrl]`+`[Alt]`+`[L]` or select menu `[ファイル(F)]`-`[CJR高速ロード(L)]` to
-open a CJR file and then type in `RUN` and `[RETURN]` in the JR BASIC prompt to execute it.
+open a CJR file and then type in `RUN` followed by `[Enter]` key in the JR BASIC prompt to execute it.
 
 Have fun!
 
