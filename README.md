@@ -44,7 +44,7 @@ The rules:
 
 This game has been released in Micom BASIC Magazine in Feburary 1984.
 
-[ELEVATOR.cjf](../../raw/master/ELEVATOR.cjr)
+[ELEVATOR.cjr](../../raw/master/ELEVATOR.cjr)
 
 ![ELEVATOR main](image/ELEVATOR.png)
 
